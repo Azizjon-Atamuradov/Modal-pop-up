@@ -1,5 +1,9 @@
+import ModalTest from "./modal-test";
+
 function App() {
-  return <div></div>;
+  return <div>
+    <ModalTest/>
+  </div>;
 }
 
 export default App;
